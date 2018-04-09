@@ -1,0 +1,9 @@
+GROUP,BEHAVIOR,SUBBEHAVIOR,PERCENT,INDEX
+GROUP1,behavior1,foo,0.521,123
+GROUP1,behavior2,bar,0.013,213
+GROUP1,behavior2,fuzz,1.034,103
+GROUP1,behavior3,foobar,0.75,131
+GROUP2,behavior1,foo,1.521,101
+GROUP2,behavior2,bar,0.913,91
+GROUP2,behavior2,fuzz,0.034,301
+GROUP2,behavior3,foobar,0.95,87
